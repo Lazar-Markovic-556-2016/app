@@ -2,10 +2,7 @@ import React from 'react';
 
 function HomePage(){
     return (
-     <h1>Pičke sanse</h1>
-           
-       
-        
+     <h1>op op</h1>
         
     )  
 }
